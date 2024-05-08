@@ -1,6 +1,9 @@
-# 💫 About Me:
-🌱 I’m currently learning Software Engineering<br>⚡ Fun fact, I play drums
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e4bf7a&height=100&section=header"/> 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e4bf7a&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Luis+Filipe+Fialho;I'm+19+years+old;I'm+studying+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg) <br/>
+
+# 
+🌱 I’m currently learning Software Engineering<br>⚡ Fun fact, I play drums
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luisfilipefialho) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luisfilipefialho) 
@@ -10,7 +13,6 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=luisfilipefialho&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=luisfilipefialho&theme=onedark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfilipefialho&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e4bf7a&height=100&section=footer"/>
