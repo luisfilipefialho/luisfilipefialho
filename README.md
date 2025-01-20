@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e4bf7a&height=100&section=header"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e4bf7a&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Luis+Filipe+Fialho;I'm+19+years+old;I'm+learning+Cybersecurity;Be+Welcome!+:%29)](https://git.io/typing-svg) <br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e4bf7a&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Luis+Filipe;I'm+19+years+old;I'm+learning+Cybersecurity;Be+Welcome!+:%29)](https://git.io/typing-svg) <br/>
 
 # 
 🌱 I’m currently learning Cybersecurity<br>⚡ Fun fact, I play drums
